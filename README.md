@@ -7,6 +7,10 @@
 **DB Diagram**
 ![Customer and Product](https://github.com/user-attachments/assets/6965facb-81fb-49dd-99cd-476766ca6898)
 
+**Sample UI**
+![UI](https://github.com/user-attachments/assets/945cd957-7400-4824-8696-1ca5b173103b)
+
+
 **Tech stack for this project:**
 1. Flask for backend
 2. SQLALCHEMY to design DB architecture, and SQLite for the database
