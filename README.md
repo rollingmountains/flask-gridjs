@@ -9,6 +9,6 @@
 
 **Tech stack for this project:**
 1. Flask for backend
-2. SQLALCHEMY to design db architecture
+2. SQLALCHEMY to design DB architecture, and SQLite for the database
 3. GridJS for frontend
 4. Relationship diagram using dbdiagram.io
