@@ -1,0 +1,7 @@
+.env
+import_*
+*.csv
+requirements.txt
+flaskretrofun.sqlite
+.python-version
+__pycache__/
